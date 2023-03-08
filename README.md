@@ -40,7 +40,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/dev-KyungMin/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-KyungMin&layout=compact&theme=default" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungMin-tech&layout=compact&theme=default" />
   </a>
 </p>
 [![dev-KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin)](https://github-readme-stats.vercel.app/api?username=dev-KyungMin)
