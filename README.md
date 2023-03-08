@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SQLite-lightgrey?style=flat-square&logo=SQLite&logoColor=05415A"/>  
 </p>
-<div>
 </p>
 <p align="center">
 </p>
@@ -44,4 +43,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-KyungMin&layout=compact&theme=default" />
   </a>
 </p>
-</div>
+[![dev-KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin)](https://github.com/dev-KyungMin/github-readme-stats)
+  
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
+  
+![Github commits Graph](https://activity-graph.herokuapp.com/graph?username=dev-KyungMin&bg_color=ffffff&color=5194F0&line=5194F0&point=5194F0&area_color=5194F0&hide_border=false&area=true&custom_title=Joohyeonee's%20Commits%20Graph)
