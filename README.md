@@ -35,3 +35,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SQLite-lightgrey?style=flat-square&logo=SQLite&logoColor=05415A"/>  
 </p>
+<p align="center">
+  <a href="https://github.com/dev-KyungMin/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-KyungMin&layout=compact&theme=default" />
+  </a>
+</p>
