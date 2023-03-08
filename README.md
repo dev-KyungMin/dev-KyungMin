@@ -51,11 +51,13 @@
   
   [![KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin&theme=tokyonight)](https://github.com/dev-KyungMin/github-readme-stats)
 	
-  </div>	
+  	
   
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungMin-tech&theme=tokyonight)
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&theme=tokyonight)
 
+  </div>
+	
  <div align=right>
 	
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoohyeonee&count_bg=%2379C83D&title_bg=%23C0C0C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dev-KyungMin/)
