@@ -35,22 +35,23 @@
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SQLite-lightgrey?style=flat-square&logo=SQLite&logoColor=05415A"/>  
 </p>
-</p>
 <p align="center">
 </p>
 <p align="center">
-  <a href="https://github.com/dev-KyungMin/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungMin-tech&layout=compact&theme=default" />
+  <a href="https://github.com/KyungMin-tech/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungMin-tech&layout=compact&theme=tokyonight" />
   </a>
-</p>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/dev-KyungMin/">
-    ![dev-KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin&show_icons=true&theme=tokyonight)
-  </a>
- </p>
- 
-<div align="center">
+  [![KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin)](https://github.com/dev-KyungMin/github-readme-stats)
+  
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungMin-tech&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
+
+ <div align=right>
+	
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoohyeonee&count_bg=%2379C83D&title_bg=%23C0C0C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dev-KyungMin/)
+	
+  </div>
+  <br>
 </div>
