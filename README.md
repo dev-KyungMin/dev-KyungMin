@@ -50,5 +50,7 @@
   </a>
  </p>
  
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungMin-tech&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
+<div align="center">
+  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungMin-tech&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
+  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
+</div>
