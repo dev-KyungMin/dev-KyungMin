@@ -46,6 +46,8 @@
 
 <p align="center">
   <a href="https://github.com/dev-KyungMin/">
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=KyungMin-tech&layout=compact&theme=default](https://github-readme-stats.vercel.app/api?username=KyungMin-tech&show_icons=true$theme=tokyonight)" />
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=KyungMin-tech&layout=compact&theme=default](https://github-readme-stats.vercel.app/api?username=dev-KyungMin&show_icons=true&theme=tokyonight)" />
     ![KyungMin-tech's github stats](https://github-readme-stats.vercel.app/api?username=KyungMin-tech&show_icons=true$theme=tokyonight)
     ![dev-KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin&show_icons=true&theme=tokyonight)
   </a>
