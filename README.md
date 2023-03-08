@@ -45,13 +45,13 @@
   
  
  
-  [![KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=KyungMin-tech&theme=tokyonight&align=center)](https://github.com/KyungMin-tech/github-readme-stats)
+  [![KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=KyungMin-tech&theme=tokyonight)](https://github.com/KyungMin-tech/github-readme-stats)
  
   
   [![KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin&theme=tokyonight)](https://github.com/dev-KyungMin/github-readme-stats)
   
-  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungMin-tech&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
-  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
+  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungMin-tech&theme=tokyonight&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
+  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&theme=tokyonight&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
 
  <div align=right>
 	
