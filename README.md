@@ -43,7 +43,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-KyungMin&layout=compact&theme=default" />
   </a>
 </p>
-[![dev-KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin)]
+[![dev-KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin)](https://github-readme-stats.vercel.app/api?username=dev-KyungMin)
   
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
   
