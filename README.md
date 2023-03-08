@@ -42,7 +42,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungMin-tech&layout=compact&theme=tokyonight" />
   </a>
   </p>
-  [![KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=KyungMin-tech)](https://github.com/KyungMin-tech/github-readme-stats)
   [![KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin)](https://github.com/dev-KyungMin/github-readme-stats)
   
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungMin-tech&stroke=ffffff&background=ffffff&ring=5194F0&fire=5194F0&currStreakNum=000000&currStreakLabel=5194F0&sideNums=5194F0&sideLabels=5194F0&dates=5194F0)
