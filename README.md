@@ -47,6 +47,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-KyungMin&layout=compact&theme=tokyonight" />
   </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-KyungMin&layout=compact)](https://github.com/dev-KyungMin/github-readme-stats)
   <div align="center">
  
 	
