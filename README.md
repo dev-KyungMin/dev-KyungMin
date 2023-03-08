@@ -41,7 +41,12 @@
   <a href="https://github.com/KyungMin-tech/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungMin-tech&layout=compact&theme=tokyonight" />
   </a>
-  </p>
+</p>
+<p align="center">
+  <a href="https://github.com/dev-KyungMin/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-KyungMin&layout=compact&theme=tokyonight" />
+  </a>
+</p>
   <div align="center">
  
 	
