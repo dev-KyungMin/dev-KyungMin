@@ -43,6 +43,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungMin-tech&layout=compact&theme=default" />
   </a>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungMin-tech)](https://github.com/anuraghazra/github-readme-stats)
 [![KyungMin-tech's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/KyungMin-tech/github-readme-stats)
 [![dev-KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/dev-KyungMin/github-readme-stats)
   
