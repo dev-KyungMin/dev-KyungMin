@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheJMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=white"/>
+  <img src="https://github.com/apache/ignite-website/blob/master/assets/images/apache_ignite_logo.svg"/>
   <img src="https://img.shields.io/badge/ApacheIgnite-D22128?style=flat-square&logo=ApacheIgnite&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
