@@ -35,15 +35,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SQLite-lightgrey?style=flat-square&logo=SQLite&logoColor=05415A"/>  
 
-  <div align="center">
  
-	
- 
-  [![KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=KyungMin-tech&theme=tokyonight)](https://github.com/KyungMin-tech/github-readme-stats)
- 
-  
-  [![KyungMin's github stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin&theme=tokyonight)](https://github.com/dev-KyungMin/github-readme-stats)
-	
   	
   
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungMin-tech&theme=tokyonight)
