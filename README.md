@@ -29,7 +29,16 @@
   <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheJMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=white"/>
-  <img height="20" style="background-color: white; background-image: url("https://github.com/apache/ignite-website/blob/master/assets/images/apache_ignite_logo.svg");">
+  <style>
+	  .image-container
+	  {
+		background-image: url("[https://example.com/path/to/your/image.jpg](https://github.com/apache/ignite-website/blob/master/assets/images/apache_ignite_logo.svg)");
+		background-color: white; /* 배경색 설정 */
+		background-size: cover; /* 이미지를 화면에 꽉 채우도록 설정 */
+	    	height: 20px;
+	  }
+  </style>
+  <div class="image-container"></div>
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
