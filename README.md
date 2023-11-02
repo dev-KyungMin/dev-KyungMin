@@ -39,7 +39,8 @@
  
   	
 
-  <br>![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&theme=tokyonight)
+  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&theme=tokyonight)
+  ![KyungMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-KyungMin&show_icons=true&theme=transparent)
  		
   </div>
 	
