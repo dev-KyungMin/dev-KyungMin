@@ -39,7 +39,7 @@
  
   	
   
-  ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungMin-tech&theme=tokyonight)
+  
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&theme=tokyonight)
 
   </div>
