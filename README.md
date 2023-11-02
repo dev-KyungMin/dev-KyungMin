@@ -38,10 +38,9 @@
 
  
   	
-  
-  
+  <div align=center>
   ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-KyungMin&theme=tokyonight)
-
+  </div> 		
   </div>
 	
  <div align=right>
