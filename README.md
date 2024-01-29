@@ -34,7 +34,8 @@
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SQLite-lightgrey?style=flat-square&logo=SQLite&logoColor=05415A"/>  
+  <img src="https://img.shields.io/badge/SQLite-lightgrey?style=flat-square&logo=SQLite&logoColor=05415A"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=003545"/>
 
  
   	
