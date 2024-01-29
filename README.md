@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SQLite-lightgrey?style=flat-square&logo=SQLite&logoColor=05415A"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
-  <a href="https://docs.mindsdb.com/data-integrations/all-data-integrations#yugabyte"><img src="https://img.shields.io/badge/YugabyteDB-02458D?logo=yugabytedb&logoColor=fff&style=for-the-badge" alt="YugabyteDB Badge"></a>
+  <img src="https://img.shields.io/badge/YugabyteDB-02458D?style=flat-square&logo=yugabytedb&logoColor=fff"/>
 
  
   	
